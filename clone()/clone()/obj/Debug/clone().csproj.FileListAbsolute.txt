@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\clone()\clone()\bin\Debug\clone().exe.config
+c:\users\haier\documents\visual studio 2013\Projects\clone()\clone()\bin\Debug\clone().exe
+c:\users\haier\documents\visual studio 2013\Projects\clone()\clone()\bin\Debug\clone().pdb
+c:\users\haier\documents\visual studio 2013\Projects\clone()\clone()\obj\Debug\clone().csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\clone()\clone()\obj\Debug\clone().exe
+c:\users\haier\documents\visual studio 2013\Projects\clone()\clone()\obj\Debug\clone().pdb
