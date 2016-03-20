@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\inheritance\inheritance\bin\Debug\inheritance.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\inheritance\inheritance\bin\Debug\inheritance.exe
+c:\users\haier\documents\visual studio 2013\Projects\inheritance\inheritance\bin\Debug\inheritance.pdb
+c:\users\haier\documents\visual studio 2013\Projects\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\inheritance\inheritance\obj\Debug\inheritance.exe
+c:\users\haier\documents\visual studio 2013\Projects\inheritance\inheritance\obj\Debug\inheritance.pdb
