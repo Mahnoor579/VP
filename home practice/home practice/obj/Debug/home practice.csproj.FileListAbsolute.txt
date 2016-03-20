@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\home practice\home practice\bin\Debug\home practice.exe.config
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\home practice\home practice\bin\Debug\home practice.exe
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\home practice\home practice\bin\Debug\home practice.pdb
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\home practice\home practice\obj\Debug\home practice.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\home practice\home practice\obj\Debug\home practice.exe
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\home practice\home practice\obj\Debug\home practice.pdb
