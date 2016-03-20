@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\evenbyarrays\evenbyarrays\bin\Debug\evenbyarrays.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\evenbyarrays\evenbyarrays\bin\Debug\evenbyarrays.exe
+c:\users\haier\documents\visual studio 2013\Projects\evenbyarrays\evenbyarrays\bin\Debug\evenbyarrays.pdb
+c:\users\haier\documents\visual studio 2013\Projects\evenbyarrays\evenbyarrays\obj\Debug\evenbyarrays.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\evenbyarrays\evenbyarrays\obj\Debug\evenbyarrays.exe
+c:\users\haier\documents\visual studio 2013\Projects\evenbyarrays\evenbyarrays\obj\Debug\evenbyarrays.pdb
