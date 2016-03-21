@@ -1,1 +1,6 @@
 c:\users\haier\documents\visual studio 2013\Projects\Overriding\Overriding\bin\Debug\Overriding.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Overriding\Overriding\obj\Debug\Overriding.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Overriding\Overriding\bin\Debug\Overriding.exe
+c:\users\haier\documents\visual studio 2013\Projects\Overriding\Overriding\bin\Debug\Overriding.pdb
+c:\users\haier\documents\visual studio 2013\Projects\Overriding\Overriding\obj\Debug\Overriding.exe
+c:\users\haier\documents\visual studio 2013\Projects\Overriding\Overriding\obj\Debug\Overriding.pdb
