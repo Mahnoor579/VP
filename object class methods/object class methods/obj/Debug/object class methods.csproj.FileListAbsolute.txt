@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\object class methods\object class methods\bin\Debug\object class methods.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\object class methods\object class methods\bin\Debug\object class methods.exe
+c:\users\haier\documents\visual studio 2013\Projects\object class methods\object class methods\bin\Debug\object class methods.pdb
+c:\users\haier\documents\visual studio 2013\Projects\object class methods\object class methods\obj\Debug\object class methods.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\object class methods\object class methods\obj\Debug\object class methods.exe
+c:\users\haier\documents\visual studio 2013\Projects\object class methods\object class methods\obj\Debug\object class methods.pdb
