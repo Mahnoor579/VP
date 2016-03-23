@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\string trim\string trim\bin\Debug\string trim.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\string trim\string trim\bin\Debug\string trim.exe
+c:\users\haier\documents\visual studio 2013\Projects\string trim\string trim\bin\Debug\string trim.pdb
+c:\users\haier\documents\visual studio 2013\Projects\string trim\string trim\obj\Debug\string trim.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\string trim\string trim\obj\Debug\string trim.exe
+c:\users\haier\documents\visual studio 2013\Projects\string trim\string trim\obj\Debug\string trim.pdb
