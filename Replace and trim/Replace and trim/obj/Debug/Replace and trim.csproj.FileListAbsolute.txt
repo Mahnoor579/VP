@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\Replace and trim\Replace and trim\bin\Debug\Replace and trim.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Replace and trim\Replace and trim\bin\Debug\Replace and trim.exe
+c:\users\haier\documents\visual studio 2013\Projects\Replace and trim\Replace and trim\bin\Debug\Replace and trim.pdb
+c:\users\haier\documents\visual studio 2013\Projects\Replace and trim\Replace and trim\obj\Debug\Replace and trim.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Replace and trim\Replace and trim\obj\Debug\Replace and trim.exe
+c:\users\haier\documents\visual studio 2013\Projects\Replace and trim\Replace and trim\obj\Debug\Replace and trim.pdb
