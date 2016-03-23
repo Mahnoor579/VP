@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\tut2\tut2\bin\Debug\tut2.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\tut2\tut2\bin\Debug\tut2.exe
+c:\users\haier\documents\visual studio 2013\Projects\tut2\tut2\bin\Debug\tut2.pdb
+c:\users\haier\documents\visual studio 2013\Projects\tut2\tut2\obj\Debug\tut2.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\tut2\tut2\obj\Debug\tut2.exe
+c:\users\haier\documents\visual studio 2013\Projects\tut2\tut2\obj\Debug\tut2.pdb
