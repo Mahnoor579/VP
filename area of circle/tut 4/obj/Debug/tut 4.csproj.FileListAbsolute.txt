@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\tut 4\tut 4\bin\Debug\tut 4.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\tut 4\tut 4\obj\Debug\tut 4.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\tut 4\tut 4\bin\Debug\tut 4.exe
+c:\users\haier\documents\visual studio 2013\Projects\tut 4\tut 4\bin\Debug\tut 4.pdb
+c:\users\haier\documents\visual studio 2013\Projects\tut 4\tut 4\obj\Debug\tut 4.exe
+c:\users\haier\documents\visual studio 2013\Projects\tut 4\tut 4\obj\Debug\tut 4.pdb
