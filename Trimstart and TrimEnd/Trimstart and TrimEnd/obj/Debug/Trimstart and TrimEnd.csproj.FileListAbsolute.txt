@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\Trimstart and TrimEnd\Trimstart and TrimEnd\bin\Debug\Trimstart and TrimEnd.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Trimstart and TrimEnd\Trimstart and TrimEnd\bin\Debug\Trimstart and TrimEnd.exe
+c:\users\haier\documents\visual studio 2013\Projects\Trimstart and TrimEnd\Trimstart and TrimEnd\bin\Debug\Trimstart and TrimEnd.pdb
+c:\users\haier\documents\visual studio 2013\Projects\Trimstart and TrimEnd\Trimstart and TrimEnd\obj\Debug\Trimstart and TrimEnd.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Trimstart and TrimEnd\Trimstart and TrimEnd\obj\Debug\Trimstart and TrimEnd.exe
+c:\users\haier\documents\visual studio 2013\Projects\Trimstart and TrimEnd\Trimstart and TrimEnd\obj\Debug\Trimstart and TrimEnd.pdb
