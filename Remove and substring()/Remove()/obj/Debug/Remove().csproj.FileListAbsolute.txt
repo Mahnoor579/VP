@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\Remove()\Remove()\bin\Debug\Remove().exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Remove()\Remove()\bin\Debug\Remove().exe
+c:\users\haier\documents\visual studio 2013\Projects\Remove()\Remove()\bin\Debug\Remove().pdb
+c:\users\haier\documents\visual studio 2013\Projects\Remove()\Remove()\obj\Debug\Remove().csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Remove()\Remove()\obj\Debug\Remove().exe
+c:\users\haier\documents\visual studio 2013\Projects\Remove()\Remove()\obj\Debug\Remove().pdb
