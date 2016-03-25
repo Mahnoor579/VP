@@ -4,3 +4,6 @@ C:\Users\Haier\documents\visual studio 2013\Projects\vp_assignment\vp_assignment
 C:\Users\Haier\documents\visual studio 2013\Projects\vp_assignment\vp_assignment\obj\Debug\vp_assignment.csprojResolveAssemblyReference.cache
 C:\Users\Haier\documents\visual studio 2013\Projects\vp_assignment\vp_assignment\obj\Debug\vp_assignment.exe
 C:\Users\Haier\documents\visual studio 2013\Projects\vp_assignment\vp_assignment\obj\Debug\vp_assignment.pdb
+D:\GitHub\VP\vp_assignment\vp_assignment\bin\Debug\vp_assignment.exe.config
+D:\GitHub\VP\vp_assignment\vp_assignment\obj\Debug\vp_assignment.exe
+D:\GitHub\VP\vp_assignment\vp_assignment\obj\Debug\vp_assignment.pdb
