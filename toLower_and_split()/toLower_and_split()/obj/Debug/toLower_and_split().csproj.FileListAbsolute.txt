@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\toLower_and_split()\toLower_and_split()\bin\Debug\toLower_and_split().exe.config
+c:\users\haier\documents\visual studio 2013\Projects\toLower_and_split()\toLower_and_split()\bin\Debug\toLower_and_split().exe
+c:\users\haier\documents\visual studio 2013\Projects\toLower_and_split()\toLower_and_split()\bin\Debug\toLower_and_split().pdb
+c:\users\haier\documents\visual studio 2013\Projects\toLower_and_split()\toLower_and_split()\obj\Debug\toLower_and_split().exe
+c:\users\haier\documents\visual studio 2013\Projects\toLower_and_split()\toLower_and_split()\obj\Debug\toLower_and_split().pdb
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\toLower_and_split()\toLower_and_split()\obj\Debug\toLower_and_split().csprojResolveAssemblyReference.cache
