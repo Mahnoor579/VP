@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\Startswith and startsEnd\Startswith and startsEnd\bin\Debug\Startswith and startsEnd.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Startswith and startsEnd\Startswith and startsEnd\bin\Debug\Startswith and startsEnd.exe
+c:\users\haier\documents\visual studio 2013\Projects\Startswith and startsEnd\Startswith and startsEnd\bin\Debug\Startswith and startsEnd.pdb
+c:\users\haier\documents\visual studio 2013\Projects\Startswith and startsEnd\Startswith and startsEnd\obj\Debug\Startswith and startsEnd.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Startswith and startsEnd\Startswith and startsEnd\obj\Debug\Startswith and startsEnd.exe
+c:\users\haier\documents\visual studio 2013\Projects\Startswith and startsEnd\Startswith and startsEnd\obj\Debug\Startswith and startsEnd.pdb
