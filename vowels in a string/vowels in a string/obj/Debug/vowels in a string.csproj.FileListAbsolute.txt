@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\vowels in a string\vowels in a string\bin\Debug\vowels in a string.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\vowels in a string\vowels in a string\bin\Debug\vowels in a string.exe
+c:\users\haier\documents\visual studio 2013\Projects\vowels in a string\vowels in a string\bin\Debug\vowels in a string.pdb
+c:\users\haier\documents\visual studio 2013\Projects\vowels in a string\vowels in a string\obj\Debug\vowels in a string.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\vowels in a string\vowels in a string\obj\Debug\vowels in a string.exe
+c:\users\haier\documents\visual studio 2013\Projects\vowels in a string\vowels in a string\obj\Debug\vowels in a string.pdb
