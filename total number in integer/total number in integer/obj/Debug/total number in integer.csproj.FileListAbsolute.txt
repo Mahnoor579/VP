@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\total number in integer\total number in integer\bin\Debug\total number in integer.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\total number in integer\total number in integer\bin\Debug\total number in integer.exe
+c:\users\haier\documents\visual studio 2013\Projects\total number in integer\total number in integer\bin\Debug\total number in integer.pdb
+c:\users\haier\documents\visual studio 2013\Projects\total number in integer\total number in integer\obj\Debug\total number in integer.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\total number in integer\total number in integer\obj\Debug\total number in integer.exe
+c:\users\haier\documents\visual studio 2013\Projects\total number in integer\total number in integer\obj\Debug\total number in integer.pdb
