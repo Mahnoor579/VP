@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\factorial\factorial\bin\Debug\factorial.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\factorial\factorial\bin\Debug\factorial.exe
+c:\users\haier\documents\visual studio 2013\Projects\factorial\factorial\bin\Debug\factorial.pdb
+c:\users\haier\documents\visual studio 2013\Projects\factorial\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\factorial\factorial\obj\Debug\factorial.exe
+c:\users\haier\documents\visual studio 2013\Projects\factorial\factorial\obj\Debug\factorial.pdb
