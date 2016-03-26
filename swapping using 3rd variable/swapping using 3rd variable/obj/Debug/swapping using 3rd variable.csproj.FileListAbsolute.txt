@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\swapping using 3rd variable\swapping using 3rd variable\bin\Debug\swapping using 3rd variable.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\swapping using 3rd variable\swapping using 3rd variable\bin\Debug\swapping using 3rd variable.exe
+c:\users\haier\documents\visual studio 2013\Projects\swapping using 3rd variable\swapping using 3rd variable\bin\Debug\swapping using 3rd variable.pdb
+c:\users\haier\documents\visual studio 2013\Projects\swapping using 3rd variable\swapping using 3rd variable\obj\Debug\swapping using 3rd variable.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\swapping using 3rd variable\swapping using 3rd variable\obj\Debug\swapping using 3rd variable.exe
+c:\users\haier\documents\visual studio 2013\Projects\swapping using 3rd variable\swapping using 3rd variable\obj\Debug\swapping using 3rd variable.pdb
