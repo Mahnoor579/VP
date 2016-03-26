@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\2-D arrays\2-D arrays\bin\Debug\2-D arrays.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\2-D arrays\2-D arrays\bin\Debug\2-D arrays.exe
+c:\users\haier\documents\visual studio 2013\Projects\2-D arrays\2-D arrays\bin\Debug\2-D arrays.pdb
+c:\users\haier\documents\visual studio 2013\Projects\2-D arrays\2-D arrays\obj\Debug\2-D arrays.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\2-D arrays\2-D arrays\obj\Debug\2-D arrays.exe
+c:\users\haier\documents\visual studio 2013\Projects\2-D arrays\2-D arrays\obj\Debug\2-D arrays.pdb
