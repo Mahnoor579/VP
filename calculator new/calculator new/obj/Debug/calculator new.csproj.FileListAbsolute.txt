@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\calculator new\calculator new\bin\Debug\calculator new.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\calculator new\calculator new\bin\Debug\calculator new.exe
+c:\users\haier\documents\visual studio 2013\Projects\calculator new\calculator new\bin\Debug\calculator new.pdb
+c:\users\haier\documents\visual studio 2013\Projects\calculator new\calculator new\obj\Debug\calculator new.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\calculator new\calculator new\obj\Debug\calculator new.exe
+c:\users\haier\documents\visual studio 2013\Projects\calculator new\calculator new\obj\Debug\calculator new.pdb
