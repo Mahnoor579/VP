@@ -1,0 +1,3 @@
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\logical question\logical question\bin\Debug\logical question.exe.config
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\logical question\logical question\obj\Debug\logical question.exe
+C:\Users\Haier\Documents\Visual Studio 2013\Projects\logical question\logical question\obj\Debug\logical question.pdb

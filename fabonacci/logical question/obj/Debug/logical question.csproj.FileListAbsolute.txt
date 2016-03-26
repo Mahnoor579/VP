@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\logical question\logical question\bin\Debug\logical question.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\logical question\logical question\bin\Debug\logical question.exe
+c:\users\haier\documents\visual studio 2013\Projects\logical question\logical question\bin\Debug\logical question.pdb
+c:\users\haier\documents\visual studio 2013\Projects\logical question\logical question\obj\Debug\logical question.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\logical question\logical question\obj\Debug\logical question.exe
+c:\users\haier\documents\visual studio 2013\Projects\logical question\logical question\obj\Debug\logical question.pdb
