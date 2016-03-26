@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\byref-byvalue\byref-byvalue\bin\Debug\byref-byvalue.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\byref-byvalue\byref-byvalue\bin\Debug\byref-byvalue.exe
+c:\users\haier\documents\visual studio 2013\Projects\byref-byvalue\byref-byvalue\bin\Debug\byref-byvalue.pdb
+c:\users\haier\documents\visual studio 2013\Projects\byref-byvalue\byref-byvalue\obj\Debug\byref-byvalue.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\byref-byvalue\byref-byvalue\obj\Debug\byref-byvalue.exe
+c:\users\haier\documents\visual studio 2013\Projects\byref-byvalue\byref-byvalue\obj\Debug\byref-byvalue.pdb
