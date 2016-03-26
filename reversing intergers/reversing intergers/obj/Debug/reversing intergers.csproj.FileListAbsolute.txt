@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\reversing intergers\reversing intergers\bin\Debug\reversing intergers.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\reversing intergers\reversing intergers\bin\Debug\reversing intergers.exe
+c:\users\haier\documents\visual studio 2013\Projects\reversing intergers\reversing intergers\bin\Debug\reversing intergers.pdb
+c:\users\haier\documents\visual studio 2013\Projects\reversing intergers\reversing intergers\obj\Debug\reversing intergers.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\reversing intergers\reversing intergers\obj\Debug\reversing intergers.exe
+c:\users\haier\documents\visual studio 2013\Projects\reversing intergers\reversing intergers\obj\Debug\reversing intergers.pdb
