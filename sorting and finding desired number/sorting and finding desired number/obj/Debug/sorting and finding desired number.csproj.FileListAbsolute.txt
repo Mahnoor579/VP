@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\sorting and finding desired number\sorting and finding desired number\bin\Debug\sorting and finding desired number.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\sorting and finding desired number\sorting and finding desired number\bin\Debug\sorting and finding desired number.exe
+c:\users\haier\documents\visual studio 2013\Projects\sorting and finding desired number\sorting and finding desired number\bin\Debug\sorting and finding desired number.pdb
+c:\users\haier\documents\visual studio 2013\Projects\sorting and finding desired number\sorting and finding desired number\obj\Debug\sorting and finding desired number.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\sorting and finding desired number\sorting and finding desired number\obj\Debug\sorting and finding desired number.exe
+c:\users\haier\documents\visual studio 2013\Projects\sorting and finding desired number\sorting and finding desired number\obj\Debug\sorting and finding desired number.pdb
