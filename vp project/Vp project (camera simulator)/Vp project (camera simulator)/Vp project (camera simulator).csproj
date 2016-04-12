@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{522A57CF-66B7-4E67-BE90-A566A21CBF63}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vp_project__camera_simulator_</RootNamespace>
+    <AssemblyName>Vp project %28camera simulator%29</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="contactandfeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contactandfeedback.Designer.cs">
+      <DependentUpon>contactandfeedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editor.Designer.cs">
+      <DependentUpon>Editor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Img process.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Img process.Designer.cs">
+      <DependentUpon>Img process.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Simulator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Simulator.Designer.cs">
+      <DependentUpon>Simulator.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="contactandfeedback.resx">
+      <DependentUpon>contactandfeedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editor.resx">
+      <DependentUpon>Editor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Img process.resx">
+      <DependentUpon>Img process.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Simulator.resx">
+      <DependentUpon>Simulator.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6931195.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photos_line_drawing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-colorful-digital-painting-by-alicezhang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\letra-mayuscula-m-fucsia-4257.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plain_depth_hd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green-wallpaper-photo-with-water-drops.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plain_depth_hd1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera-canon-winter-snow-lights-christmas-photo-wallpaper-1680x1050.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dark-Purple-Wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\letra-mayuscula-m-fucsia-42571.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plain-water-Blue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-colorful-digital-painting-by-alicezhang1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plain_depth_hd2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-colorful-digital-painting-by-alicezhang2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\letra-mayuscula-m-fucsia-42572.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plain_depth_hd3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photos_line_drawing1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera-canon-winter-snow-lights-christmas-photo-wallpaper-1680x10501.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-colorful-digital-painting-by-alicezhang3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69311951.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plain_depth_hd4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-colorful-digital-painting-by-alicezhang4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\letra-mayuscula-m-fucsia-42573.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69311952.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

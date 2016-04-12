@@ -1,0 +1,13 @@
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\bin\Debug\Vp project (camera simulator).exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\bin\Debug\Vp project (camera simulator).exe
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\bin\Debug\Vp project (camera simulator).pdb
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp project (camera simulator).csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp_project__camera_simulator_.Form1.resources
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp_project__camera_simulator_.Properties.Resources.resources
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp project (camera simulator).csproj.GenerateResource.Cache
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp project (camera simulator).exe
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp project (camera simulator).pdb
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp_project__camera_simulator_.Simulator.resources
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp_project__camera_simulator_.contactandfeedback.resources
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp_project__camera_simulator_.Editor.resources
+c:\users\haier\documents\visual studio 2013\Projects\Vp project (camera simulator)\Vp project (camera simulator)\obj\Debug\Vp_project__camera_simulator_.Img_process.resources
