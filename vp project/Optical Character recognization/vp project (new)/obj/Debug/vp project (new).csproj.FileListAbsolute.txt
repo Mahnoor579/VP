@@ -1,0 +1,10 @@
+c:\users\haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\bin\Debug\vp project (new).exe.config
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\bin\Debug\vp project (new).exe
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\bin\Debug\vp project (new).pdb
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\obj\Debug\vp project (new).csprojResolveAssemblyReference.cache
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\obj\Debug\vp_project__new_.Form1.resources
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\obj\Debug\vp_project__new_.Form2.resources
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\obj\Debug\vp_project__new_.Properties.Resources.resources
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\obj\Debug\vp project (new).csproj.GenerateResource.Cache
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\obj\Debug\vp project (new).exe
+C:\Users\Haier\documents\visual studio 2013\Projects\vp project (new)\vp project (new)\obj\Debug\vp project (new).pdb
