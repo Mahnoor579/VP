@@ -1,0 +1,9 @@
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\bin\Debug\Button(aftermidz).exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\bin\Debug\Button(aftermidz).exe
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\bin\Debug\Button(aftermidz).pdb
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\obj\Debug\Button(aftermidz).csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\obj\Debug\Button_aftermidz_.Form1.resources
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\obj\Debug\Button_aftermidz_.Properties.Resources.resources
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\obj\Debug\Button(aftermidz).csproj.GenerateResource.Cache
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\obj\Debug\Button(aftermidz).exe
+c:\users\haier\documents\visual studio 2013\Projects\Button(aftermidz)\Button(aftermidz)\obj\Debug\Button(aftermidz).pdb
