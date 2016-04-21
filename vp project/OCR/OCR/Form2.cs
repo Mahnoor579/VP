@@ -23,6 +23,7 @@ namespace OCR
 
         }
 
+        /*
         private void button1_Click(object sender, EventArgs e, Bitmap bmpInput)
         {
             
@@ -69,5 +70,7 @@ namespace OCR
             }
 
         }
+
+        */
     }
 }

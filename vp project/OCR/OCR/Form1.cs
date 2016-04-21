@@ -24,9 +24,13 @@ namespace OCR
         }
         private void button1_Click(object sender, EventArgs e)
         {
+
+
             string imagename;
             try
             {
+                string filename = "";
+                string path = "";
                 FileDialog fd = new OpenFileDialog();
                 //specify directory
                 fd.InitialDirectory = @":D\";
@@ -37,8 +41,13 @@ namespace OCR
                     Bitmap newimg = new Bitmap(imagename);
                     pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
                     pictureBox1.Image = (Image)newimg;
+                    filename = System.IO.Path.GetFileName(fd.FileName);
+                    path = System.IO.Path.GetDirectoryName(fd.FileName);
                 }
 
+                textBox1.Text = path + "Directory";
+                textBox1.Text += filename ;
+                
                 fd = null;
             }
 
@@ -63,17 +72,7 @@ namespace OCR
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            OpenFileDialog ofd = new OpenFileDialog();
-            string filename = "";
-            string path = "";
-            if(ofd.ShowDialog()==DialogResult.OK)
-            {
-                filename = System.IO.Path.GetFileName(ofd.FileName);
-                path = System.IO.Path.GetDirectoryName(ofd.FileName);
-            }
-
-            MessageBox.Show(filename, "Filename");
-            MessageBox.Show(path, "Directory");
+            
         }
     }
 }
