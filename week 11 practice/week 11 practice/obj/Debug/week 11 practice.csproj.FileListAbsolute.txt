@@ -1,0 +1,9 @@
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\bin\Debug\week 11 practice.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\bin\Debug\week 11 practice.exe
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\bin\Debug\week 11 practice.pdb
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\obj\Debug\week 11 practice.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\obj\Debug\week_11_practice.Form1.resources
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\obj\Debug\week_11_practice.Properties.Resources.resources
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\obj\Debug\week 11 practice.csproj.GenerateResource.Cache
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\obj\Debug\week 11 practice.exe
+c:\users\haier\documents\visual studio 2013\Projects\week 11 practice\week 11 practice\obj\Debug\week 11 practice.pdb
