@@ -1,0 +1,5 @@
+c:\users\haier\documents\visual studio 2013\Projects\Singleton pattern\Singleton pattern\bin\Debug\Singleton pattern.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\Singleton pattern\Singleton pattern\obj\Debug\Singleton pattern.csprojResolveAssemblyReference.cache
+c:\users\haier\documents\visual studio 2013\Projects\Singleton pattern\Singleton pattern\obj\Debug\Singleton_pattern.singleton.resources
+c:\users\haier\documents\visual studio 2013\Projects\Singleton pattern\Singleton pattern\obj\Debug\Singleton_pattern.Properties.Resources.resources
+c:\users\haier\documents\visual studio 2013\Projects\Singleton pattern\Singleton pattern\obj\Debug\Singleton pattern.csproj.GenerateResource.Cache
