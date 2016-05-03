@@ -1,0 +1,30 @@
+c:\users\haier\documents\visual studio 2013\Projects\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\obj\Debug\OCR.Form1.resources
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\obj\Debug\OCR.Form2.resources
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\obj\Debug\OCR.Properties.Resources.resources
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\obj\Debug\OCR.csproj.GenerateResource.Cache
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\obj\Debug\OCR.exe
+C:\Users\Haier\documents\visual studio 2013\Projects\OCR\OCR\obj\Debug\OCR.pdb
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\obj\Debug\OCR.exe
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\obj\Debug\OCR.pdb
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\obj\Debug\OCR.Form1.resources
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\obj\Debug\OCR.Form2.resources
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\obj\Debug\OCR.Properties.Resources.resources
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\obj\Debug\OCR.csproj.GenerateResource.Cache
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\Goshu Amour\Desktop\Mah\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\obj\Debug\OCR.exe
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\obj\Debug\OCR.pdb
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\obj\Debug\OCR.Form1.resources
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\obj\Debug\OCR.Form2.resources
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\obj\Debug\OCR.Properties.Resources.resources
+C:\Users\Haier\Desktop\Mahnoor OCR\OCR\OCR\obj\Debug\OCR.csproj.GenerateResource.Cache
